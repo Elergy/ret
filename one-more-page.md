@@ -1,6 +1,6 @@
 # One more page
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="get" host="https://api.cakes.com" path="/v1/crocodiles/:id" %}
 {% api-method-summary %}
 wow!
 {% endapi-method-summary %}
